@@ -1,8 +1,8 @@
-## Hi👋 Welcome to my GitHub! 🚀
+### Hi👋 Welcome to my GitHub! 🚀
 
 ---
 
-## Who am I 🏋️‍♀️
+### Who am I 🏋️‍♀️
 
 * 📛 Name：えーさん
 * 🌏 Country：Osaka, Japan
