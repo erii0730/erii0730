@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi👋 Welcom to my GitHub😊
+
+---
+
+## Who am I 🏋️‍♀️
+
+* 📛 Name：えーさん
+* 🌏 Country：Osaka, Japan
+* 🐦 X：@anahatsu_a3
+* 🌐 Site：https://pilina-work.com/
 
 <!--
 **erii0730/erii0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
